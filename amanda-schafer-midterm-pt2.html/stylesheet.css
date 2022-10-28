@@ -1,0 +1,91 @@
+#content{
+  margin:0 auto;
+  width: 700px;
+}
+#masthead{
+  text-align: center;
+  font-weight: 400;
+  border-bottom: 10px solid #A24857;
+  width: 900px;
+  margin-top: 0, auto;
+  margin-bottom: 10px;
+}
+.p{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  text-align: left;
+  font-weight:normal;
+  font-stretch: expanded;
+  font-weight: 100;
+}
+#h1{
+  font-family:serif,'Times New Roman', san-serif;
+  font-size: 2em;
+  text-align: left;
+  font-weight: 500px;
+  font-weight: bolder;
+  font-stretch: expanded;
+  margin-top: 12px;
+}
+#h2{
+  font-family:'Times New Roman',sans-serif, serif;
+  font-size: 23px;
+  text-align: left;
+  font-weight: 5px;
+  font-weight: bolder;
+}
+#byline{
+  font-family:serif,'Times New Roman', san-serif;
+  font-weight: lighter;
+  font-size: 15px;
+  font-family:serif;
+  margin-top: 10px;
+}
+#h4{
+  font-family:'Times New Roman',sans-serif, serif;
+  font-size: 17px;
+  text-align: left;
+  font-weight: 5px;
+  font-weight: bolder;
+}
+#images{
+  text-align: left;
+  margin-bottom: 10px;
+}
+#h5{
+  font-family:serif,sans-serif, 'Times New Roman';
+  font-size: 15px;
+  text-align: left;
+  font-weight: 5px;
+  font-weight: bolder;
+  color:#800000;
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+#h6{
+  font-family:serif,sans-serif, 'Times New Roman';
+  font-size: 15px;
+  text-align: center;
+  font-weight: 5px;
+  font-weight: bolder;
+  margin-top: 2px;
+  margin-bottom: 10px;
+}
+}
+#related{    /*should I move this come back and check later if it looks right*/
+  font-family:serif, 'Times New Roman',sans-serif;
+  font-size: 15px;
+  text-align: left;
+  font-weight: 3px;
+}
+#blockquote1 {
+font-size: 30px;
+font-weight: 200px;
+margin-top: 15px;
+margin-bottom: 15px;
+color: #A24857;
+margin-left: 50px;
+padding-left: 15px;
+border-left: 4px solid #000000;
+font-family: 'Raleway', serif,sans-serif;
+}
